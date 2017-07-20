@@ -8,7 +8,15 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-
+/**
+ * 
+ * 类名称：News   
+ * 类描述： 抓取开源中国新闻列表  
+ * 创建人：geekfly
+ * 创建时间：2017年7月19日 下午8:54:46      
+ * @version  V1.0
+ *
+ */
 public class News {
 
 	public static void main(String[] args) throws IOException {
